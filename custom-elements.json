@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "tags": [
+    {
+      "name": "app-level",
+      "description": "An application that displays the level",
+      "properties": [],
+      "events": [],
+      "slots": [],
+      "cssProperties": []
+    }
+  ]
+}

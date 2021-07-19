@@ -17,7 +17,7 @@
     "@open-wc/building-rollup": "^1.10.0",
     "@open-wc/eslint-config": "^4.3.0",
     "@open-wc/testing": "^2.5.33",
-    "@web/test-runner": "^0.13.13",
+    "@web/test-runner": "^0.13.15",
     "deepmerge": "^4.2.2",
     "es-dev-server": "^2.1.0",
     "eslint": "^7.31.0",

@@ -56,7 +56,7 @@
   "author": "app-level",
   "license": "MIT",
   "dependencies": {
-    "lit-element": "^3.0.0",
+    "lit-element": "^3.0.1",
     "lit-html": "^2.0.1"
   }
 }

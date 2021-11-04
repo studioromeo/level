@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "@esm-bundle/chai": "^4.3.4",
-    "@open-wc/building-rollup": "^1.10.0",
+    "@open-wc/building-rollup": "^2.0.1",
     "@open-wc/eslint-config": "^4.3.0",
     "@open-wc/testing": "^3.0.2",
     "@web/test-runner": "^0.13.19",

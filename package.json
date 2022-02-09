@@ -16,7 +16,7 @@
     "@esm-bundle/chai": "^4.3.4",
     "@open-wc/building-rollup": "^2.0.1",
     "@open-wc/eslint-config": "^7.0.0",
-    "@open-wc/testing": "^3.0.2",
+    "@open-wc/testing": "^3.0.4",
     "@web/test-runner": "^0.13.19",
     "deepmerge": "^4.2.2",
     "es-dev-server": "^2.1.0",
